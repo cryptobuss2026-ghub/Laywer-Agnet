@@ -1,3 +1,4 @@
 streamlit
 pydantic
 llama-index
+llama-index-llms-openai
